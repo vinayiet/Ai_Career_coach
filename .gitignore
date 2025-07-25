@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+chroma_db/
+rag/
+.new_db/
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+*.env
+venv/
+ENV/
+env/
+.venv/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+*.db
+
+# Others
+*.bak
+*.tmp
+*.swp
+*.swo
